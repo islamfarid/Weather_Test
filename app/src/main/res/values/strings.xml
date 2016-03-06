@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="error.location.message">Location not available so we can not get the weather</string>
+    <string name="error.location.permission.message">Location permission is needed</string>
+</resources>
